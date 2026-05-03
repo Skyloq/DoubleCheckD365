@@ -1,0 +1,68 @@
+[
+  { "id": "a1000000-0000-0000-0000-000000000001", "fullName": "Marie Tremblay",           "email": "marie.tremblay@acme.com" },
+  { "id": "a1000000-0000-0000-0000-000000000002", "fullName": "Marie Tremblay",           "email": "m.tremblay@acme.com" },
+  { "id": "a1000000-0000-0000-0000-000000000003", "fullName": "Marie Tremblai",           "email": "marie.tremblai@gmail.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000004", "fullName": "Jean-François Côté",       "email": "jf.cote@corp.ca" },
+  { "id": "a1000000-0000-0000-0000-000000000005", "fullName": "Jean François Coté",       "email": "jf.cote@corp.ca" },
+  { "id": "a1000000-0000-0000-0000-000000000006", "fullName": "Jean-Francois Côté",       "email": "jfcote@perso.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000007", "fullName": "Sophie Lavoie",            "email": "sophie.lavoie@startup.io" },
+  { "id": "a1000000-0000-0000-0000-000000000008", "fullName": "Sophie Lavoi",             "email": "slavoie@startup.io" },
+
+  { "id": "a1000000-0000-0000-0000-000000000009", "fullName": "Patrick Gagnon",           "email": "pgagnon@example.com" },
+  { "id": "a1000000-0000-0000-0000-000000000010", "fullName": "Patrice Gagnon",           "email": "pgagnon@example.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000011", "fullName": "Luc Beauchamp",            "email": "luc.beauchamp@mail.com" },
+  { "id": "a1000000-0000-0000-0000-000000000012", "fullName": "Luc Beauchamps",           "email": "luc.beauchamps@mail.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000013", "fullName": "Nathalie Bergeron",        "email": "nbergeron@org.com" },
+  { "id": "a1000000-0000-0000-0000-000000000014", "fullName": "Natalie Bergeron",         "email": "nat.bergeron@org.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000015", "fullName": "Marc-André Roy",           "email": "maroy@entreprise.com" },
+  { "id": "a1000000-0000-0000-0000-000000000016", "fullName": "Marc Andre Roy",           "email": "marc.roy@entreprise.com" },
+  { "id": "a1000000-0000-0000-0000-000000000017", "fullName": "Marc-Andre Roy",           "email": "maroy@entreprise.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000018", "fullName": "Éric Lefebvre",            "email": "eric.lefebvre@tech.com" },
+  { "id": "a1000000-0000-0000-0000-000000000019", "fullName": "Eric Lefebvre",            "email": "eric.lefebvre@tech.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000020", "fullName": "Catherine Dubois",         "email": "cdubois@finance.ca" },
+  { "id": "a1000000-0000-0000-0000-000000000021", "fullName": "Catherin Dubois",          "email": "catherine.dubois@gmail.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000022", "fullName": "Robert St-Pierre",         "email": "rstpierre@conseil.com" },
+  { "id": "a1000000-0000-0000-0000-000000000023", "fullName": "Robert Saint-Pierre",      "email": "rstpierre@conseil.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000024", "fullName": "Véronique Lapointe",       "email": "vlapointe@media.ca" },
+  { "id": "a1000000-0000-0000-0000-000000000025", "fullName": "Veronique Lapointe",       "email": "veronique.lapointe@media.ca" },
+
+  { "id": "a1000000-0000-0000-0000-000000000026", "fullName": "Daniel Charron",           "email": "dcharron@ventes.com" },
+  { "id": "a1000000-0000-0000-0000-000000000027", "fullName": "Danielle Charron",         "email": "dcharron@ventes.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000028", "fullName": "Steve Michaud",            "email": "smichaud@dev.io" },
+  { "id": "a1000000-0000-0000-0000-000000000029", "fullName": "Steven Michaud",           "email": "steven.michaud@dev.io" },
+
+  { "id": "a1000000-0000-0000-0000-000000000030", "fullName": "Annie Desrochers",         "email": "adesrochers@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000031", "fullName": "Annie Desrosiers",         "email": "annie.desrosiers@unique.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000032", "fullName": "Philippe Mercier",         "email": "pmercier@logistik.com" },
+  { "id": "a1000000-0000-0000-0000-000000000033", "fullName": "Philip Mercier",           "email": "pmercier@logistik.com" },
+
+  { "id": "a1000000-0000-0000-0000-000000000034", "fullName": "Josée Paquette",           "email": "jpaquette@rh.ca" },
+  { "id": "a1000000-0000-0000-0000-000000000035", "fullName": "Jose Paquette",            "email": "josee.paquette@rh.ca" },
+
+  { "id": "a1000000-0000-0000-0000-000000000036", "fullName": "Alexandre Bouchard",       "email": "abouchard@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000037", "fullName": "Isabelle Morin",           "email": "imorin@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000038", "fullName": "François Pelletier",       "email": "fpelletier@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000039", "fullName": "Chantal Ouellet",          "email": "couellet@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000040", "fullName": "Julie Fortin",             "email": "julie.fortin@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000041", "fullName": "Simon Cloutier",           "email": "scloutier@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000042", "fullName": "Mélanie Bélanger",         "email": "mbelanger@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000043", "fullName": "Kevin Thibodeau",          "email": "kthibodeau@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000044", "fullName": "Geneviève Poirier",        "email": "gpoirier@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000045", "fullName": "Thomas Garneau",           "email": "tgarneau@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000046", "fullName": "Stéphanie Viau",           "email": "sviau@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000047", "fullName": "Nicolas Paradis",          "email": "nparadis@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000048", "fullName": "Audrey Fontaine",          "email": "afontaine@unique.com" },
+  { "id": "a1000000-0000-0000-0000-000000000049", "fullName": "Maxime Archambault",       "email": null },
+  { "id": "a1000000-0000-0000-0000-000000000050", "fullName": "Laurence Champagne",       "email": null }
+]

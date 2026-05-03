@@ -1,0 +1,32 @@
+[
+  { "id": "b2000000-0000-0000-0000-000000000001", "name": "Acme Corporation",             "email": "info@acme.com" },
+  { "id": "b2000000-0000-0000-0000-000000000002", "name": "Acme Corp",                    "email": "contact@acme.com" },
+  { "id": "b2000000-0000-0000-0000-000000000003", "name": "ACME Corporation",             "email": "info@acme.com" },
+
+  { "id": "b2000000-0000-0000-0000-000000000004", "name": "Globex Industries",            "email": "hello@globex.com" },
+  { "id": "b2000000-0000-0000-0000-000000000005", "name": "Globex Industrie",             "email": "admin@globex.com" },
+  { "id": "b2000000-0000-0000-0000-000000000006", "name": "Globex Industries Inc.",       "email": "hello@globex.com" },
+
+  { "id": "b2000000-0000-0000-0000-000000000007", "name": "Initech Solutions",            "email": "info@initech.com" },
+  { "id": "b2000000-0000-0000-0000-000000000008", "name": "Initech Solution",             "email": "info@initech.com" },
+
+  { "id": "b2000000-0000-0000-0000-000000000009", "name": "Les Constructions Beaupré",   "email": "info@beaupre.ca" },
+  { "id": "b2000000-0000-0000-0000-000000000010", "name": "Construction Beaupré",        "email": "info@beaupre.ca" },
+
+  { "id": "b2000000-0000-0000-0000-000000000011", "name": "Groupe Conseil Métro",        "email": "contact@gcmetro.com" },
+  { "id": "b2000000-0000-0000-0000-000000000012", "name": "Groupe-Conseil Métro",        "email": "info@gcmetro.com" },
+
+  { "id": "b2000000-0000-0000-0000-000000000013", "name": "TechNord Inc",                "email": "hello@technord.ca" },
+  { "id": "b2000000-0000-0000-0000-000000000014", "name": "Tech Nord Inc.",              "email": "hello@technord.ca" },
+
+  { "id": "b2000000-0000-0000-0000-000000000015", "name": "Distribution Lafleur",        "email": "lafleur@distrib.com" },
+  { "id": "b2000000-0000-0000-0000-000000000016", "name": "Distributions Lafleur",       "email": "lafleur@distrib.com" },
+
+  { "id": "b2000000-0000-0000-0000-000000000017", "name": "Umbrella Technologies",       "email": "umbrella@unique.com" },
+  { "id": "b2000000-0000-0000-0000-000000000018", "name": "Stark Enterprises",           "email": "stark@unique.com" },
+  { "id": "b2000000-0000-0000-0000-000000000019", "name": "Wayne Industries",            "email": "wayne@unique.com" },
+  { "id": "b2000000-0000-0000-0000-000000000020", "name": "Pineapple Media",             "email": "contact@pineapple.io" },
+  { "id": "b2000000-0000-0000-0000-000000000021", "name": "Nordic Ventures",             "email": "info@nordic.ca" },
+  { "id": "b2000000-0000-0000-0000-000000000022", "name": "Soleil Numérique",            "email": null },
+  { "id": "b2000000-0000-0000-0000-000000000023", "name": "Agence Pixel",                "email": null }
+]
