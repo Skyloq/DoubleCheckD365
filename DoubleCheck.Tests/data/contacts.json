@@ -1,0 +1,6 @@
+[
+  { "id": "c3000000-0000-0000-0000-000000000001", "fullName": "Alice Dupont",   "email": "alice@test.com" },
+  { "id": "c3000000-0000-0000-0000-000000000002", "fullName": "Alice Dupond",   "email": "alice2@test.com" },
+  { "id": "c3000000-0000-0000-0000-000000000003", "fullName": "Bob Martin",     "email": "bob@test.com" },
+  { "id": "c3000000-0000-0000-0000-000000000004", "fullName": "Charlie Durand", "email": null }
+]
