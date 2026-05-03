@@ -1,5 +1,6 @@
 using DoubleCheck.Algorithms;
 using FluentAssertions;
+using Xunit;
 
 namespace DoubleCheck.Tests.Algorithms;
 
@@ -36,7 +37,7 @@ public class LevenshteinCalculatorTests
     [Fact]
     public void ComputeDistance_SingleSubstitution_ReturnsOne()
     {
-        LevenshteinCalculator.ComputeDistance("chat", "chат").Should().Be(0); // même string
+        LevenshteinCalculator.ComputeDistance("chat", "chat").Should().Be(0);
         LevenshteinCalculator.ComputeDistance("Marie", "Mario").Should().Be(1);
     }
 
@@ -63,7 +64,7 @@ public class LevenshteinCalculatorTests
 
     [Theory]
     [InlineData("Nathalie", "Natalie",  1)]
-    [InlineData("Philippe", "Philip",   3)]
+    [InlineData("Philippe", "Philip",   2)]
     [InlineData("Côté",     "Coté",     1)]
     [InlineData("Sophie",   "Sophie",   0)]
     public void ComputeDistance_RealNameVariants_ReturnsExpectedDistance(

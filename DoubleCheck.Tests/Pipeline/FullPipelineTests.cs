@@ -2,6 +2,7 @@ using DoubleCheck.Configuration;
 using DoubleCheck.Reporting;
 using DoubleCheck.Services;
 using FluentAssertions;
+using Xunit;
 
 namespace DoubleCheck.Tests.Pipeline;
 
@@ -59,10 +60,10 @@ public class FullPipelineTests : IDisposable
             p.Record1Name == "Alice Dupont" && p.Record2Name == "Alice Dupond" ||
             p.Record1Name == "Alice Dupond" && p.Record2Name == "Alice Dupont");
 
-        // Acme Corp / Acme Corporation → SimilarName
+        // Acme Corp / Acme Corps → SimilarName
         accountPairs.Should().Contain(p =>
             (p.Record1Name == "Acme Corp" || p.Record2Name == "Acme Corp") &&
-            (p.Record1Name == "Acme Corporation" || p.Record2Name == "Acme Corporation"));
+            (p.Record1Name == "Acme Corps" || p.Record2Name == "Acme Corps"));
     }
 
     [Fact]

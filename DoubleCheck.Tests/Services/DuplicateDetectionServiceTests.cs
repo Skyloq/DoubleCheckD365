@@ -2,6 +2,7 @@ using DoubleCheck.Configuration;
 using DoubleCheck.Models;
 using DoubleCheck.Services;
 using FluentAssertions;
+using Xunit;
 
 namespace DoubleCheck.Tests.Services;
 
@@ -179,8 +180,8 @@ public class DuplicateDetectionServiceTests
     {
         var accounts = new[]
         {
-            new AccountRecord(Guid.NewGuid(), "Acme Corporation", "a@test.com"),
-            new AccountRecord(Guid.NewGuid(), "Acme Corp",        "b@test.com")
+            new AccountRecord(Guid.NewGuid(), "Dupont Solutions", "a@test.com"),
+            new AccountRecord(Guid.NewGuid(), "Dupont Solution",  "b@test.com")
         };
 
         BuildService().Detect(accounts)

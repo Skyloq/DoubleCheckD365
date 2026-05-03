@@ -1,6 +1,7 @@
 using DoubleCheck.Models;
 using DoubleCheck.Reporting;
 using FluentAssertions;
+using Xunit;
 
 namespace DoubleCheck.Tests.Reporting;
 

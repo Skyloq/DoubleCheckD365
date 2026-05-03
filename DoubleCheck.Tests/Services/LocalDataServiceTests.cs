@@ -1,5 +1,6 @@
 using DoubleCheck.Services;
 using FluentAssertions;
+using Xunit;
 
 namespace DoubleCheck.Tests.Services;
 

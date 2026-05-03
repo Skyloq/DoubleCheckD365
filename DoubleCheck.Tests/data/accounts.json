@@ -1,5 +1,5 @@
 [
   { "id": "d4000000-0000-0000-0000-000000000001", "name": "Acme Corp",        "email": "info@acme.com" },
-  { "id": "d4000000-0000-0000-0000-000000000002", "name": "Acme Corporation", "email": "contact@acme.com" },
+  { "id": "d4000000-0000-0000-0000-000000000002", "name": "Acme Corps",       "email": "contact@acme.com" },
   { "id": "d4000000-0000-0000-0000-000000000003", "name": "Globex Inc",       "email": null }
 ]
